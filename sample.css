@@ -1,0 +1,137 @@
+.nav{
+    font-size: 30px;
+    margin-top: 6px;
+    margin-left: 4px;
+}
+.logo{
+    height: 40px;
+    width: 40px;
+    margin-left: 30px;
+}
+.bar{
+    height: 40px;
+    width: 40px;
+}
+.nav_body{
+    display: flex;
+}
+.nav_input{
+    border-radius: 10px;
+    
+    height: 50px;
+    width: 800px;
+    margin-left: 180px;
+}
+.heading{
+    margin-top: 10px;
+}
+.nav_right{
+    font-size: 30px;
+    margin-left: 500px;
+    margin-top:4px ;
+}
+.nav_left{
+    margin-left: 3px;
+    margin-top: 6px;
+    font-size: 30px;
+    align-items: end;
+}
+.nav_front{
+    margin-left:10px;
+    margin-top: 4px;
+    font-size: 30px;
+}
+i:hover {
+    background-color:grey;
+    border-radius: 50px;
+  }
+.last{
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    margin-left: 4px;
+}
+.kingfisher{
+    
+    height: 100vh;
+    width: 50px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 25px;
+    text-align: center;
+}
+.house{
+    margin-top: 20px;
+}
+.play{
+    margin-top: 40px;
+    margin-left: 5px;
+}
+.bill{
+    margin-top: 40px;
+}
+.download{
+        margin-top: 40px;
+}
+.gear{
+    margin-top: 40px;
+}
+.second{
+    height: 100vh;
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 40px;
+    display: flex;
+}
+.group
+{
+    display: flex;
+}
+.line{
+    display: flex;
+    border-radius: 20px;
+
+}
+.up{
+   margin-left: 40px;
+}
+.down{
+    margin-left: 50px;
+}
+.video{
+    margin-left: 40px;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 400px;
+    height: 250px;
+}
+.all
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:2px
+}
+.realme{
+    margin-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.noise{
+    margin-left:60px ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bag
+{
+    font-size: 15px;
+}
+.mobile{
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
+.mobile:hover{
+    background-color: rgb(218, 218, 218);
+}
+
